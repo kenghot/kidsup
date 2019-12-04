@@ -86,7 +86,7 @@ export default {
       selected: 'data:image/png;base64,iVBOAAANSUhEUgAAAB...',
       notSelected: 'data:image/png;base64,iVBORw0CAM...'
     },
- 
+    test: 1,
     // mapStyle: [
     //   ...
     // ],
